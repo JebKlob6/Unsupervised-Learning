@@ -1,0 +1,7 @@
+timestamp,experiment_type,dataset_name,dr_method,n_components,original_features,reduced_features,explained_variance,reconstruction_error,reconstruction_error_std,reconstruction_error_cv,stability_assessment,optimization_method,optimization_score
+1753419763.379712,dimensionality_reduction,BankrupcyDS,pca,51.0,95.0,51.0,0.95,,,,,,0.95
+1753419780.2244449,dimensionality_reduction,BankrupcyDS,ica,10.0,95.0,10.0,,,,,,kurtosis_maximization_optimized,1028.14
+1753419792.337471,dimensionality_reduction,BankrupcyDS,rp,75.0,95.0,75.0,,1.31,0.08,6.11,stable,practical_heuristics_with_jl_reference_multi_seed,1.31
+1753419926.8979971,dimensionality_reduction,CSDataSet,pca,20.0,28.0,20.0,0.96,,,,,,0.96
+1753420100.4489589,dimensionality_reduction,CSDataSet,ica,10.0,28.0,10.0,,,,,,kurtosis_maximization_optimized,1.23
+1753420272.810633,dimensionality_reduction,CSDataSet,rp,22.0,28.0,22.0,,0.57,0.01,1.75,stable,practical_heuristics_with_jl_reference_multi_seed,0.57

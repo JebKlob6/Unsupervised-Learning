@@ -1,0 +1,14 @@
+{
+  "total_experiments": 19,
+  "kmeans_count": 12,
+  "em_count": 4,
+  "nn_count": 0,
+  "dr_count": 3,
+  "saved_files": [
+    "results/BankrupcyDS_consolidated_kmeans_results.csv",
+    "results/BankrupcyDS_consolidated_em_results.csv",
+    "results/BankrupcyDS_consolidated_dr_results.csv"
+  ],
+  "timestamp": 1753419802.083798,
+  "filtering_applied": true
+}

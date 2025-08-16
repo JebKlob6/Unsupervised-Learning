@@ -1,0 +1,5 @@
+timestamp,experiment_type,n_clusters,inertia,algorithm,dataset,dr_method,n_components,is_optimal,silhouette,calinski_harabasz,davies_bouldin,ari,nmi
+1753419754.872771,kmeans,4.0,459644.11,K-Means,BankrupcyDS,baseline,95.0,1.0,0.1,210.01,2.18,0.02,0.05
+1753419770.3725288,kmeans,4.0,425183.57,K-Means,BankrupcyDS,pca,51.0,1.0,0.07,265.57,2.49,0.03,0.05
+1753419787.077645,kmeans,4.0,41875.61,K-Means,BankrupcyDS,ica,10.0,1.0,0.16,549.95,1.22,-0.02,0.01
+1753419797.4771562,kmeans,5.0,419724.52,K-Means,BankrupcyDS,rp,75.0,1.0,0.07,280.36,1.97,0.01,0.02

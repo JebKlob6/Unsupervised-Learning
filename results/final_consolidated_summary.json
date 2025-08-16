@@ -1,0 +1,15 @@
+{
+  "total_experiments": 39,
+  "kmeans_count": 22,
+  "em_count": 8,
+  "nn_count": 3,
+  "dr_count": 6,
+  "saved_files": [
+    "results/final_consolidated_kmeans_results.csv",
+    "results/final_consolidated_em_results.csv",
+    "results/final_consolidated_nn_results.csv",
+    "results/final_consolidated_dr_results.csv"
+  ],
+  "timestamp": 1753420401.839329,
+  "filtering_applied": true
+}

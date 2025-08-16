@@ -1,0 +1,24 @@
+# Core ML libraries
+scikit-learn==1.4.2
+tensorflow==2.15.0
+
+# Data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+yellowbrick==1.5
+
+# Jupyter (optional, but helpful for experimentation)
+notebook==7.2.0
+ipykernel==6.29.4
+
+# Utilities
+tqdm==4.66.2
+scipy==1.13.0
+joblib==1.4.0
+
+# Optional (for advanced model inspection / debugging)
+plotly==5.22.0

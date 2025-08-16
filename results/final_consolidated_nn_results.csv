@@ -1,0 +1,4 @@
+timestamp,experiment_type,dataset_name,dr_method,n_components,nn_time,accuracy,train_accuracy,best_test_score,best_hidden_layer_sizes,best_learning_rate_init,best_activation
+1753420090.777281,neural_network,CSDataSet,pca,20.0,27.17,0.59,0.65,0.6,"(64, 32)",0.01,relu
+1753420271.761214,neural_network,CSDataSet,ica,10.0,36.55,0.6,0.61,0.6,"(64, 32)",0.01,relu
+1753420401.8295581,neural_network,CSDataSet,rp,22.0,5.29,0.6,0.6,0.6,"(64, 32)",0.1,relu
